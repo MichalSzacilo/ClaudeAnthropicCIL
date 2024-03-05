@@ -4,6 +4,10 @@
 2. Save in anthropic_chat.py format .
 3. Run in any Command line using the command python anthropic_chat.py
 4. At the bottom is a script in the Phython language which needs to be copied.
+
+Code for copy 
+
+
 import json
 
 API_KEY = 'Your API Kay'
